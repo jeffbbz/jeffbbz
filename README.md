@@ -9,7 +9,7 @@ You can read a case study of Tumbleweed [here](https://tumbleweed-cdc.github.io/
 
 ## Technologies and Tools I have experience in:
 apachekafka
-https://custom-icon-badges.demolab.com/badge/Issue-red.svg?logo=apachekafka&logoColor=fff
+https://custom-icon-badges.demolab.com/badge/Issue-black.svg?logo=apachekafka&logoColor=fff
 
 
 ## Contact Me!
