@@ -1,4 +1,15 @@
-## Hi there 👋
+## Why hello there! 👋, My name is Paco!
+
+I'm an Indiana-based full-stack software engineer with experience in JavaScript, TypeScript, Ruby, Python, PostgreSQL, and React.
+
+## Tumbleweed CDC
+My most recent project is Tumbleweed, an open-source, user-friendly framework designed for fast and consistent data propagation between microservices using Change Data Capture (CDC) and the transactional outbox pattern. It automatically deploys a self-hosted log-based CDC pipeline that abstracts away the complexities associated with setting up and using CDC tools and stream processing frameworks. It is designed to monitor changes in one or more PostgreSQL databases and sync that data to consumer microservices in near real-time.
+
+You can read a case study of Tumblweed here.
+
+## Technologies and Tools I have experience in:
+
+## Contact Me!
 
 <!--
 **jeffbbz/jeffbbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
