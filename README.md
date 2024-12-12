@@ -8,6 +8,9 @@ My most recent project is [Tumbleweed](https://tumbleweed-cdc.github.io/), an op
 You can read a case study of Tumbleweed [here](https://tumbleweed-cdc.github.io/docs/introduction).
 
 ## Technologies and Tools I have experience in:
+apachekafka
+https://custom-icon-badges.demolab.com/badge/Issue-red.svg?logo=apachekafka&logoColor=fff
+
 
 ## Contact Me!
 
