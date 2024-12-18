@@ -1,7 +1,5 @@
 ## 👋 Why hello there! My name is Paco!
 
-I'm an Indiana-based full-stack software engineer with experience in JavaScript, TypeScript, Ruby, Python, PostgreSQL, and React.
-
 I’m a software engineer with several years experience in multiple full stack web ecosystems and a wide-range of technical and non-technical skills in a number of fields and contexts.  I’m insatiably curious, detail-oriented, and love to tackle interesting technical problems. I enjoy collaboration and I’m told I have an easy-going and good-humored nature. I like making mistakes and sometimes I learn from them!
 
 ## <img src="https://tumbleweed-cdc.github.io/img/FaviconTumbleweedTransparent.ico" alt="tumblweed_logo" width="25"/> Tumbleweed CDC
