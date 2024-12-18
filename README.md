@@ -22,31 +22,14 @@ If you're interested in learning more, I authored an [in-depth technical case st
 
 ## :incoming_envelope: Contact Me!
 
-<div display="flex">
   <a href="https://www.linkedin.com/in/paco-michelson-29702b1b5">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn"/>
   </a>
+  
   <a href="mailto:paco.michelson@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" alt="email">
   </a>
-</div>
 
 ## :tv: What else?
 
 I'm also a :video_camera: video artist and a collector of :musical_note: cassette tapes!
-
-
-<!--
-**jeffbbz/jeffbbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
