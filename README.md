@@ -37,7 +37,7 @@ If you're interested in learning more, I authored an [in-depth technical case st
 
 ## :tv: What else?
 
-I'm also a video artist and a collector of cassette tapes!
+I'm also a :video_camera: video artist and a collector of :musical_note: cassette tapes!
 
 
 <!--
