@@ -1,14 +1,16 @@
-## Why hello there! 👋, My name is Paco!
+## 👋 Why hello there! My name is Paco!
 
 I'm an Indiana-based full-stack software engineer with experience in JavaScript, TypeScript, Ruby, Python, PostgreSQL, and React.
+
+I’m a software engineer with several years experience in multiple full stack web ecosystems and a wide-range of technical and non-technical skills in a number of fields and contexts.  I’m insatiably curious, detail-oriented, and love to tackle interesting technical problems. I enjoy collaboration and I’m told I have an easy-going and good-humored nature. I like making mistakes and sometimes I learn from them!
 
 ## <img src="https://tumbleweed-cdc.github.io/img/FaviconTumbleweedTransparent.ico" alt="tumblweed_logo" width="25"/> Tumbleweed CDC
 
 My most recent project is [Tumbleweed](https://tumbleweed-cdc.github.io/), an open-source, user-friendly framework designed for fast and consistent data propagation between microservices using Change Data Capture (CDC) and the transactional outbox pattern. It automatically deploys a self-hosted log-based CDC pipeline that abstracts away the complexities associated with setting up and using CDC tools and stream processing frameworks. It is designed to monitor changes in one or more PostgreSQL databases and sync that data to consumer microservices in near real-time.
 
-You can read a case study of Tumbleweed [here](https://tumbleweed-cdc.github.io/docs/introduction).
+If you're interested in learning more, I authored an [in-depth technical case study on the problem domain](https://tumbleweed-cdc.github.io/docs/introduction), system design, and engineering decisions involved in the creation of Tumbleweed.
 
-## Technologies and Tools I have experience in:
+## 🛠️ Technologies and Tools I have experience in:
 
 | Category | Technologies |
 | --- | --- |
@@ -22,10 +24,13 @@ You can read a case study of Tumbleweed [here](https://tumbleweed-cdc.github.io/
 | Change Data Capture + Stream Processing | ![Apache Kafka Badge](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat) ![](https://custom-icon-badges.demolab.com/badge/Debezium-yellow?logo=debezium&logoColor=white) ![](https://custom-icon-badges.demolab.com/badge/Tumbleweed-white?logo=tumbleweed-cdc&logoColor=white) Kafka Connect, Apicurio Schema Registry|
 | Other | ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat) ![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat) |
 
+## :incoming_envelope: Contact Me!
 
 
+## :tv: What else?
 
-## Contact Me!
+I'm also a video artist and a collector of cassette tapes!
+
 
 <!--
 **jeffbbz/jeffbbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
