@@ -4,7 +4,7 @@ I’m a software engineer with several years experience in multiple full stack w
 
 ## <img src="https://tumbleweed-cdc.github.io/img/FaviconTumbleweedTransparent.ico" alt="tumblweed_logo" width="25"/> Tumbleweed
 
-My most recent project is [Tumbleweed](https://tumbleweed-cdc.github.io/), an open-source, user-friendly framework designed for fast and consistent data propagation between microservices using Change Data Capture (CDC) and the transactional outbox pattern. It automatically deploys a self-hosted log-based CDC pipeline that abstracts away the complexities associated with setting up and using CDC tools and stream processing frameworks. It is designed to monitor changes in one or more PostgreSQL databases and sync that data to consumer microservices in near real-time.
+My most recent work is on [Tumbleweed](https://tumbleweed-cdc.github.io/), an open-source, user-friendly framework designed for fast and consistent data propagation between microservices using Change Data Capture (CDC) and the transactional outbox pattern. It automatically deploys a self-hosted log-based CDC pipeline that abstracts away the complexities associated with setting up and using CDC tools and stream processing frameworks. It is designed to monitor changes in one or more PostgreSQL databases and sync that data to consumer microservices in near real-time.
 
 If you're interested in learning more, I authored an [in-depth technical case study on the problem domain](https://tumbleweed-cdc.github.io/docs/introduction), system design, and engineering decisions involved in the creation of Tumbleweed.
 
