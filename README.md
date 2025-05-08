@@ -22,7 +22,7 @@ If you're interested in learning more, I authored an [in-depth technical case st
 
 ## :incoming_envelope: Contact Me!
 
-  <a href="https://www.linkedin.com/in/paco-michelson-29702b1b5">
+  <a href="https://www.linkedin.com/in/paco-michelson">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn"/>
   </a>
   
